@@ -1,6 +1,3 @@
-<?php
-?>
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -11,14 +8,14 @@
     <title>Test - index.php</title>
 </head>
 <body>
-<?php
-echo "Hello World";
-?>
-<nav>
-    <ul id="menu">
-        <li><a href="index.php"></a>index</li>
-        <li><a href="contact.php"></a>contact </li>
-    </ul>
-</nav>
+    <?php
+    echo "Hello World";
+    ?>
+    <nav>
+        <ul id="menu">
+            <li><a href="index.php"></a>index</li>
+            <li><a href="contact.php"></a>contact </li>
+        </ul>
+    </nav>
 </body>
 </html>
