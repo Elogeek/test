@@ -10,18 +10,18 @@
     <title>contact</title>
 </head>
 <body>
-<div>
-    <form method="get" action="coucou.php">
-        <div>
-            <label for="nom">Nom</label>
-            <input type="text" name="nom" id="nom">
-        </div>
-        <div>
-            <label for="mail">Mail</label>
-            <input type="email" name="mail" id="mail">
-        </div>
-        <input type="submit" value="Envoyer">
-    </form>
-</div>
+    <div>
+        <form method="get" action="coucou.php">
+            <div>
+                <label for="nom">Nom</label>
+                <input type="text" name="nom" id="nom">
+            </div>
+            <div>
+                <label for="mail">Mail</label>
+                <input type="email" name="mail" id="mail">
+            </div>
+            <input type="submit" value="Envoyer">
+        </form>
+    </div>
 </body>
 </html>
